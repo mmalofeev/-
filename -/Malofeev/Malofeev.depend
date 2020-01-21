@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579584485 source:/home/sirius/Projects/Malofeev/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
